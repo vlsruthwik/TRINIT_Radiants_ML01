@@ -38,3 +38,5 @@ Using this bot we can get solution to any question that we have on Covid-19.
 * Add the bot to server using the inviting link.
 * Install all the dependencies to run the code.
 * Keep the code running to make the bot active.
+
+**Use $q to ask a question to the bot**
