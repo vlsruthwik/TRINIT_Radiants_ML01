@@ -34,3 +34,7 @@ The utility of our Chatbot is to answer queries regarding Covid-19. The data is 
 ## CONCLUSION:
 Using this bot we can get solution to any question that we have on Covid-19.
 
+## To-do
+* Add the bot to server using the inviting link.
+* Install all the dependencies to run the code.
+* Keep the code running to make the bot active.
