@@ -2,7 +2,7 @@
 
 [Discord bot link](https://discord.com/api/oauth2/authorize?client_id=936979956947353610&permissions=68608&scope=bot)
 
-[Explainatin video](https://youtu.be/PknBiFSV0no)
+[Explanation video](https://youtu.be/PknBiFSV0no)
 
 ## PROBLEM STATEMENT:
 During this pandemic, the healthcare industry has developed rapidly in order to combat covid in the best way possible. One can have several questions regarding Covid-19 and one's health which should be addressed quickly. However, doctors and healthcare workers have been working on the frontline, due to which, they cannot answer these questions for everyone. In order to tackle the problem, you have to design a chatbot that will answer all people's questions related to Covid-19.
