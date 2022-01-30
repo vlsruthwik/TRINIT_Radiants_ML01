@@ -82,4 +82,4 @@ async def on_message(message):
     response = my_question(message.content[3:])
     await message.channel.send(response)
 
-client.run("OTM2OTc5OTU2OTQ3MzUzNjEw.YfVElQ.jjSMRFJPBYTH_de-FY_XukffjuY")
+client.run("TOKEN")
